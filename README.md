@@ -1,3 +1,5 @@
+Integrate with MonadLisa.
+
 # face-api.js
 
 [![Build Status](https://travis-ci.org/justadudewhohacks/face-api.js.svg?branch=master)](https://travis-ci.org/justadudewhohacks/face-api.js)

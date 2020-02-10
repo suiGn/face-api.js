@@ -28,9 +28,11 @@
     "detection",
     "recognition",
     "tensorflow",
-    "tf"
+    "tf",
+	"cleaker",
+	"netget"
   ],
-  "author": "justadudewhohacks",
+  "author": "justadudewhohacks, suiGn",
   "license": "MIT",
   "dependencies": {
     "@tensorflow/tfjs-core": "1.4.0",
