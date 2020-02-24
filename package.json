@@ -29,8 +29,8 @@
     "recognition",
     "tensorflow",
     "tf",
-	"cleaker",
-	"netget"
+    "cleaker",
+    "netget"
   ],
   "author": "justadudewhohacks, suiGn",
   "license": "MIT",
